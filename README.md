@@ -1,3 +1,5 @@
+As git hub server is not responding to the feedreader file. For verification download the zip file.
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
@@ -82,7 +84,7 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 - Start testing the code by applying jasmine frame work.
 
 
-## Project Overview:
+## Overview:
 - This project is a web-based application that reads RSS feeds. It uses Jasmine for testing.
 
 
